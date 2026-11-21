@@ -8,7 +8,7 @@ PDF에 글자와 서명을 넣고, 원문을 수정하고, 페이지를 정리�
 
 사용 환경에 맞게 **웹판 · Windows 포터블판 · Windows 설치판**을 제공합니다. 필요한 실행 환경이 갖춰지면 **인터넷 연결 없이 PDF를 편집할 수 있으며, 문서를 처리 서버로 업로드하지 않습니다.** PDF 처리와 OCR은 사용자 기기 안에서 이루어집니다.
 
-- 배포 버전: **0.9.5** · 2026-11-20
+- 배포 버전: **0.9.5 · 사전 공개판(Pre-release)** · 2026-11-20
 - 웹판: PC의 최신 **Chrome 또는 Microsoft Edge**
 - 데스크톱판: **Windows 10·11, x64 · Microsoft Edge WebView2 Runtime 필요**
 - 화면 언어: **한국어 · English**
@@ -158,4 +158,4 @@ OCR은 **한국어, 영어, 일본어, 중국어 간체·번체**를 지원합�
 
 **한모씨**([토큰 물주](https://github.com/windowsflp)) with Claude · ChatGPT — 한모씨의 지시와 검토를 거쳐 제작
 
-Copyright 2026 한모씨 (github.com/windowsflp) and Eroun PDF Contributors
+Copyright 2026 한모씨 and Eroun PDF Contributors
